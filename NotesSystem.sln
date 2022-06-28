@@ -11,13 +11,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{7317AE20-6097-4EA7-A939-5FA417F05FAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Domain", "Notes.Domain\Notes.Domain.csproj", "{6606BA4F-2D2F-4DA1-B777-644132B8CD7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Domain", "Notes.Domain\Notes.Domain.csproj", "{6606BA4F-2D2F-4DA1-B777-644132B8CD7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Application", "Notes.Application\Notes.Application.csproj", "{50DF00A4-64A2-465E-A8BA-B4EF8F6DA228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Application", "Notes.Application\Notes.Application.csproj", "{50DF00A4-64A2-465E-A8BA-B4EF8F6DA228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Pesistance", "Notes.Pesistance\Notes.Pesistance.csproj", "{BF7C61DA-FD45-4AAD-955E-35DC4068D8D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Pesistence", "Notes.Pesistance\Notes.Pesistence.csproj", "{BF7C61DA-FD45-4AAD-955E-35DC4068D8D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.WebApi", "Notes.WebApi\Notes.WebApi.csproj", "{CF378EFC-AE13-4451-8EEB-986F7543DC3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.WebApi", "Notes.WebApi\Notes.WebApi.csproj", "{CF378EFC-AE13-4451-8EEB-986F7543DC3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
