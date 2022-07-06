@@ -1,5 +1,5 @@
 ﻿namespace Notes.Pesistence;
-public class DbInitialaizer
+public class DbInitializer
 {
     public void Initialize(NotesDbContext context)
     {
